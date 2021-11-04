@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634144971 source:e:\pieas\dsa\lab_02\dynamic\main.cpp
+	<iostream>
+	"List.h"
+
+1634146302 e:\pieas\dsa\lab_02\dynamic\include\list.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1634143291 source:e:\pieas\dsa\lab_02\linked\main.cpp
+	<iostream>
+	"List.h"
+
+1634143603 source:e:\pieas\dsa\lab_02\linked\src\list.cpp
+	"List.h"
+	<iostream>
+	<string>
+
+1634142975 e:\pieas\dsa\lab_02\linked\include\list.h
+
